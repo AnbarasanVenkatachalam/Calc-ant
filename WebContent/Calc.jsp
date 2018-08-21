@@ -17,7 +17,7 @@ table {
 	text-align: right;
 }
 span {
-	color: RED;
+	color: GREEN;
 }
 </style>
 </head>
